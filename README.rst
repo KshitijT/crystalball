@@ -23,7 +23,9 @@ Create and activate a Python3 virtual environment
 
 Pip install crystalball
 
-``pip install <path to crystalball>``
+``pip install <path to crystalball>``,
+
+where <path to crystalball> refers to the path to the location where the crystalball repository has been cloned.
 
 Run crystalball
 ===============
